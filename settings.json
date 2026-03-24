@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "RACHID52.aternos.me",
+    "port": 28660,
     "version": "",
     "try-creative": false
   },
@@ -42,7 +42,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": fales,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
